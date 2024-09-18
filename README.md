@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eusarahh
+- 👀 I’m interested in music
+- 🌱 I’m currently learning how to program
+- 💞️ I’m looking to collaborate on something new, relationated with apps or something like that.
+- ⚡ Fun fact: I only program because of school!
