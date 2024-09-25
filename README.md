@@ -10,4 +10,4 @@ Meu nome é Sarah 👋
 
 sarah.elias.silva@escola.pr.gov.br
 
-https://media.tenor.com/Gz408T11T8gAAAAj/wiggle-cat-wiggle.gif
+![](https://media.tenor.com/Gz408T11T8gAAAAj/wiggle-cat-wiggle.gif)
